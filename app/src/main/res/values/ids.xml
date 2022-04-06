@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etPort" type="id" />
+    <item name="etIP" type="id" />
+    <item name="etmssg" type="id" />
+</resources>
